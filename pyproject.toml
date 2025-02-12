@@ -1,0 +1,14 @@
+[project]
+name = "Explore issues in an industry"
+version = "0.0.1"
+description = "First version of the crewAI to explore issues in an industry"
+authors = [
+    { name = "Jorge Zavala", email = "jorgez.info@gmail.com" },
+]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.76.2",
+    "langchain-community>=0.2.1",
+    "langchain-openai>=0.2.1",
+    "openai>=1.1.1",
+]
