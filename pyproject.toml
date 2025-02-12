@@ -1,5 +1,5 @@
 [project]
-name = "Explore issues in an industry"
+name = "Explore_issues_in_an_industry"
 version = "0.0.1"
 description = "First version of the crewAI to explore issues in an industry"
 authors = [
